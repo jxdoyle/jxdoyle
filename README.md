@@ -4,4 +4,4 @@ I'm an Interactive Digial Art & Design Student with a passion for all things cod
 Aspiring to become a frontend or full stack dev but I'm not picky, hire me 🙏 <br> 
 Currently working on a competitive wordle clone and updating my portfolio 👀
 ## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/jxdoyle/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxdoyle&layout=compact)
