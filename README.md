@@ -1,7 +1,6 @@
-# Hey there! <img src="https://raw.githubusercontent.com/jxdoyle/jxdoyle/main/wave.gif" width="30px">
-My name is James Doyle 😋 <br>
-I'm an Interactive Digial Art & Design student with a passion for all things code 🧠 <br>
-Aspiring to become a ux designer or frontend dev but I'm not picky, hire me 🙏 <br> 
-Currently working on a competitive wordle clone and updating my portfolio 👀
+# Hi, I'm James 👋
+Hey there, my name is James. I'm an experienced UI/UX and full stack developer with a BSc(Hons) in Interactive Digital Art and Media from South East Technological University. Always open to new projects and new opportunities.
+- 👀 Currently working on my portfolio 
+- 📍 Based in Ireland 
 ## &#x1f4c8; GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxdoyle&layout=compact)
